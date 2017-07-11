@@ -1,5 +1,5 @@
 {
-  "name": "customctrl",
+  "name": "leatlet-customctrl",
   "version": "1.0.0",
   "description": "A Customizable Leaflet Control Panel. You can insert any HTML element to map corners with",
   "main": "src/customctrl.js",
